@@ -1,0 +1,11 @@
+{
+  "name": "vs-code-motivator",
+  "version": "1.0.0",
+  "description": "A motivational extension for VS Code text editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoganathan P",
+  "license": "ISC"
+}
